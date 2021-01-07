@@ -1,5 +1,5 @@
 <?php
 
-$conectar=mysqli_connect("localhost","root","","registro"); 
+$conex = mysqli_connect("localhost","root","","djnegrito"); 
 
 ?>
